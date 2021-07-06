@@ -1,1 +1,38 @@
-p{color: brown; background-color: chartreuse;}
+body{font-family: 'Josefin Sans', sans-serif;}
+.flexable{display:flex;
+     padding-bottom: 120px;
+}
+
+.first-div{
+    width:50%;
+    float: left;
+    margin-left: 5%;
+    padding-right: 5%;
+    
+}
+.first-div img{
+    width: 80%;
+    padding: 5%;} 
+h1{font-size: 40px;}
+span{color: gold;}
+p{color: dimgray; }
+
+    .anchor-button{text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#section-1{
+    background-image: url(images/Frame\ 57.jpg);
+}
+#div-1{text-align: center;padding-top: 50px;}
+#div-2{
+    box-shadow: 5px 7px 30px gray;
+    padding-left: 5px;
+    border-radius: 20px;
+}
+
+
+    
